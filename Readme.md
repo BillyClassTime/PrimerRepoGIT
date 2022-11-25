@@ -20,3 +20,6 @@ Aparece el siguiente asistente:
 
 ![](img/img02.png)
 
+Aceptamos el acuerdo de licencia:
+![](img/img03.png)
+
